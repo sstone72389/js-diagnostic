@@ -2,11 +2,11 @@
 
 # Assessment for JavaScript Fundamentals
 
-You have 20 minutes
+You have 30 minutes
 
 ## Instructions
 
-Fork, clone, and npm install.
+Fork, clone, branch (response), and npm install.
 
 Follow the prompts below and complete each question.  You may use any resource, other than someone else in the classroom, to help you complete this assessment.
 
