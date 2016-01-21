@@ -18,12 +18,6 @@ Assume all code executes in strict mode.
 
 Please list the JavaScript primitives and give one example of each.
 
-boolean
-null
-undefined
-number
-string
-
 ## Question 2
 
 ```js
@@ -35,10 +29,6 @@ c = c + d;
 
 After this code executes, what is the value of c?  Please identify the operators in the last line of this program `c = c + d;` and explain what they do.
 
-c = 7
-
-// = -assignment operator
-// + addition operator (arithmatic operator)
 
 ## Question 3
 
@@ -53,14 +43,6 @@ After each line of code executes, what are the values of x and y?  Do the variab
 
 <!-- solution below -->
 
-let x = 4;
-let y = 3;
-x = y;
-pointer changes, x= 3
-y = 10;
-value of y changes
-
-
 
 ## Question 4
 
@@ -71,14 +53,6 @@ weather === "sunny";
 ```
 
 What are the values of these expressions?  Explain your answers.
-
-<!-- solution below -->
-
-let weather;
-weather = "sunny";
-  set weather to equal "sunny" string
-weather === "sunny";
-  false
 
 
 ## Question 5
