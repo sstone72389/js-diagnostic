@@ -1,6 +1,6 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-# Diagnostic for JavaScript Fundamentals
+# Diagnostic for JavaScript Fundamental
 
 You have 30 minutes
 
