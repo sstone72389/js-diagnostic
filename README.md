@@ -79,3 +79,8 @@ Change the code from this question so that it tests for a number of your choice 
 Commit and push your changes.
 
 Submit a pull request.
+
+## [License](LICENSE)
+
+Source code distributed under the MIT license. Text and other assets copyright
+General Assembly, Inc., all rights reserved.
