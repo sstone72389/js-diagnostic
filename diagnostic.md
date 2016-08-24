@@ -1,6 +1,6 @@
 # JS Basics Diagnostic
 
-You should save your answers in this README.md file, except for your answer to
+You should save your answers in this Diagnostic.md file, except for your answer to
 question 5 which should be saved in the file `bin/diagnostic.js`.
 
 Assume all code executes in strict mode.
