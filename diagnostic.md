@@ -43,7 +43,7 @@ weather = "sunny";
 weather === "sunny";
 ```
 
-What are the values of these expressions?  Explain your answers.
+What do these expressions evaluate to?  Explain your answers.
 
 
 ## Question 5
